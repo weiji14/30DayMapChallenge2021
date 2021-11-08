@@ -1,0 +1,9 @@
+name: 30DayMapChallenge2021
+channels:
+  - conda-forge
+dependencies:
+  - conda-forge::gmt=6.2.0[md5=ccae5772d7672042d89331fa55f90265]
+  - conda-forge::jupyterlab=3.2.2[md5=f41e7e2f2213004a52f41a96245195f1]
+  - conda-forge::jupytext=1.9.1[md5=e766b3b9eade3dd4fb9662bac84f519c]
+  - conda-forge::pygmt=0.5.0[md5=66cb6bd71b485d689be946e35d70f2ab]
+  - conda-forge::python=3.9.7[md5=e9741ee23c7a0ea9b8968b517b9a8f9a]
