@@ -14,7 +14,8 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  11 - 3D                                                  | ![day11_3d](https://user-images.githubusercontent.com/23487320/141292815-761f0c21-0e20-48a7-b5e1-9c7fa7de4ea9.png) |
 |  12 - Population                                          | ![day12_population](https://user-images.githubusercontent.com/23487320/141460796-664661d7-e416-469b-a852-9109a4f82fc7.png) |
 |  13 - Data challenge 2: Natural Earth                     | ![day13_natural_earth](https://user-images.githubusercontent.com/23487320/141614833-02a05a84-bccd-45b0-8cb5-c01a8e8aedc2.png) |
-|  14 - Map with a new tool                                 | ![day14_new_tool](https://github.com/weiji14/30DayMapChallenge2021/releases/download/untagged-23dc73b98916d7e943c2/day_14_new_tool_opttransp.gif) |
+|  14 - Map with a new tool                                 | ![day14_new_tool](https://github.com/weiji14/30DayMapChallenge2021/releases/download/v0.1.0/day_14_new_tool_opttransp.gif) |
+|  15 - Map without using a computer                        | ![day15_without_computer](https://user-images.githubusercontent.com/23487320/141764469-8a08d0e1-6a1e-43d1-bc04-3396b5ccc021.jpg) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
