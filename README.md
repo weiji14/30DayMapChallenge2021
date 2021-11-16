@@ -16,6 +16,7 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  13 - Data challenge 2: Natural Earth                     | ![day13_natural_earth](https://user-images.githubusercontent.com/23487320/141614833-02a05a84-bccd-45b0-8cb5-c01a8e8aedc2.png) |
 |  14 - Map with a new tool                                 | ![day14_new_tool](https://github.com/weiji14/30DayMapChallenge2021/releases/download/v0.1.0/day_14_new_tool_opttransp.gif) |
 |  15 - Map without using a computer                        | ![day15_without_computer](https://user-images.githubusercontent.com/23487320/141764469-8a08d0e1-6a1e-43d1-bc04-3396b5ccc021.jpg) |
+|  16 - Urban/Rural                                         | ![day16_urban](https://user-images.githubusercontent.com/23487320/141972536-75b1453b-8a78-4033-a9aa-d8b639b0a48a.png) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
