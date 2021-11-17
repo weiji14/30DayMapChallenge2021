@@ -17,6 +17,7 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  14 - Map with a new tool                                 | ![day14_new_tool](https://github.com/weiji14/30DayMapChallenge2021/releases/download/v0.1.0/day_14_new_tool_opttransp.gif) |
 |  15 - Map without using a computer                        | ![day15_without_computer](https://user-images.githubusercontent.com/23487320/141764469-8a08d0e1-6a1e-43d1-bc04-3396b5ccc021.jpg) |
 |  16 - Urban/Rural                                         | ![day16_urban](https://user-images.githubusercontent.com/23487320/141972536-75b1453b-8a78-4033-a9aa-d8b639b0a48a.png) |
+|  17 - Land                                                | ![day17_land](https://user-images.githubusercontent.com/23487320/142186279-a09919ff-0481-40a3-be2e-d63d957f9c56.png) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
