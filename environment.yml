@@ -2,6 +2,7 @@ name: 30DayMapChallenge2021
 channels:
   - conda-forge
 dependencies:
+  - conda-forge::geopandas=0.10.2[md5=6097c661f844076a5885f1a96809a131]
   - conda-forge::gmt=6.2.0[md5=ccae5772d7672042d89331fa55f90265]
   - conda-forge::jupyterlab=3.2.2[md5=f41e7e2f2213004a52f41a96245195f1]
   - conda-forge::jupytext=1.9.1[md5=e766b3b9eade3dd4fb9662bac84f519c]
