@@ -6,9 +6,10 @@ dependencies:
   - conda-forge::jupyterlab=3.2.2[md5=f41e7e2f2213004a52f41a96245195f1]
   - conda-forge::jupytext=1.9.1[md5=e766b3b9eade3dd4fb9662bac84f519c]
   - conda-forge::laspy=2.0.3[md5=a436b44dac556a0ad07505cb2ec393b7]
+  - conda-forge::openpyxl=3.0.9[md5=e3006b1924f1d2e6e01b55c820d8e5a0]
   - conda-forge::pygmt=0.5.0[md5=66cb6bd71b485d689be946e35d70f2ab]
   - conda-forge::python=3.9.7[md5=e9741ee23c7a0ea9b8968b517b9a8f9a]
   - conda-forge::rioxarray=0.8.0[md5=7c4eaaa30034895d23c692aff8c894d5]
   - conda-forge::xarray=0.19.0[md5=1f8ae14e40a12017f7ed9586e03a6336]
   - pip:
-    - lazrs==0.4.0
+    - lazrs
