@@ -20,6 +20,7 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  17 - Land                                                | ![day17_land](https://user-images.githubusercontent.com/23487320/142186279-a09919ff-0481-40a3-be2e-d63d957f9c56.png) |
 |  18 - Water                                               | ![day18_water](https://user-images.githubusercontent.com/23487320/142383394-6766f86f-d235-48f3-809d-ac84d8a5f227.png) |
 |  19 - Islands                                             | ![day19_islands](https://user-images.githubusercontent.com/23487320/142705124-cf096a73-429c-49a2-b6e4-67b8597f6e6a.png) |
+|  20 - Movement                                            | ![day20_movement](https://user-images.githubusercontent.com/23487320/142746323-49000091-2cec-46b5-8c9c-2baba7dd95d7.gif) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
