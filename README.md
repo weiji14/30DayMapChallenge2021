@@ -22,6 +22,7 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  19 - Islands                                             | ![day19_islands](https://user-images.githubusercontent.com/23487320/142705124-cf096a73-429c-49a2-b6e4-67b8597f6e6a.png) |
 |  20 - Movement                                            | ![day20_movement](https://user-images.githubusercontent.com/23487320/142746323-49000091-2cec-46b5-8c9c-2baba7dd95d7.gif) |
 |  21 - Elevation                                           | ![day21_elevation](https://user-images.githubusercontent.com/23487320/142757558-e5ba618b-1f57-4489-ba14-19bc30f2460a.png) |
+|  22 - Boundaries                                          | ![day22_boundaries](https://user-images.githubusercontent.com/23487320/142959691-67c285b4-435f-469a-9397-9f746b7abc1b.png) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
