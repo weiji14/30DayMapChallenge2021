@@ -24,6 +24,7 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  21 - Elevation                                           | ![day21_elevation](https://user-images.githubusercontent.com/23487320/142757558-e5ba618b-1f57-4489-ba14-19bc30f2460a.png) |
 |  22 - Boundaries                                          | ![day22_boundaries](https://user-images.githubusercontent.com/23487320/142959691-67c285b4-435f-469a-9397-9f746b7abc1b.png) |
 |  23 - Data challenge 3: Global Human Settlement Layer     | ![day23_human_settlement](https://user-images.githubusercontent.com/23487320/143160148-9f52090a-4e59-4788-8f7f-da2fa8b78db8.png) |
+|  24 - Historical                                          | ![day24_historical](https://user-images.githubusercontent.com/23487320/143560218-b18f02f9-7053-4fcd-9e3e-e89ecc8ea924.png) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
