@@ -9,6 +9,7 @@ dependencies:
   - conda-forge::jupytext=1.9.1[md5=e766b3b9eade3dd4fb9662bac84f519c]
   - conda-forge::laspy=2.0.3[md5=a436b44dac556a0ad07505cb2ec393b7]
   - conda-forge::openpyxl=3.0.9[md5=e3006b1924f1d2e6e01b55c820d8e5a0]
+  - conda-forge::panel=0.12.4[md5=666d334743eb3c21290d34b68c6d7e26]
   - conda-forge::pygmt=0.5.0[md5=66cb6bd71b485d689be946e35d70f2ab]
   - conda-forge::python=3.9.7[md5=e9741ee23c7a0ea9b8968b517b9a8f9a]
   - conda-forge::rioxarray=0.8.0[md5=7c4eaaa30034895d23c692aff8c894d5]
