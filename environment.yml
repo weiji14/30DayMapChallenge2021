@@ -13,6 +13,8 @@ dependencies:
   - conda-forge::pygmt=0.5.0[md5=66cb6bd71b485d689be946e35d70f2ab]
   - conda-forge::python=3.9.7[md5=e9741ee23c7a0ea9b8968b517b9a8f9a]
   - conda-forge::rioxarray=0.8.0[md5=7c4eaaa30034895d23c692aff8c894d5]
+  - conda-forge::s3fs=2021.11.0[md5=3b535ab255f555931ad49e42b39658c1]
   - conda-forge::xarray=0.19.0[md5=1f8ae14e40a12017f7ed9586e03a6336]
+  - conda-forge::zarr=2.10.3[md5=e3e09051fcbef944db14078e1ac96a5d]
   - pip:
     - lazrs
