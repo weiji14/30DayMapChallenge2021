@@ -27,6 +27,7 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  24 - Historical                                          | ![day24_historical](https://user-images.githubusercontent.com/23487320/143560218-b18f02f9-7053-4fcd-9e3e-e89ecc8ea924.png) |
 |  25 - Interactive                                         | ![day25_interactive](https://user-images.githubusercontent.com/23487320/143576556-fc953523-a3e9-4839-be9b-7a9fc9391fff.gif) |
 |  26 - Choropleth                                          | ![day26_choropleth](https://user-images.githubusercontent.com/23487320/143665193-009836d7-2cdd-4fbc-b0de-1ba761967096.png) |
+|  27 - Heatmap                                             | ![day27_heatmap](https://user-images.githubusercontent.com/23487320/143722328-ff0a53a4-565d-4b64-a20f-a113e429f191.png) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
