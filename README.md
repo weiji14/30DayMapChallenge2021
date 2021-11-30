@@ -5,6 +5,8 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/weiji14/30DayMapChallenge2021/main)
 
+![day30_metamapping](https://user-images.githubusercontent.com/23487320/144026461-71568edb-97b1-4caf-9843-b1ac2dbbeeaa.png)
+
 
 |  Day and Theme                                            | Map |
 |-----------------------------------------------------------|-----|
@@ -30,6 +32,7 @@ Maps made using [PyGMT](https://github.com/GenericMappingTools/pygmt) whenever p
 |  27 - Heatmap                                             | ![day27_heatmap](https://user-images.githubusercontent.com/23487320/143722328-ff0a53a4-565d-4b64-a20f-a113e429f191.png) |
 |  28 - The Earth is not flat                               | ![day28_round_earth](https://user-images.githubusercontent.com/23487320/143729191-c24e6fc3-eaad-4874-ad26-3b6c5e0865d9.png) |
 |  29 - NULL                                                | ![day29_null](https://user-images.githubusercontent.com/23487320/143977382-48461f1b-3e2d-48c2-a66b-39b559ff5495.png) |
+|  30 - Metamapping                                         | ![day30_metamapping](https://user-images.githubusercontent.com/23487320/144026461-71568edb-97b1-4caf-9843-b1ac2dbbeeaa.png) |
 
 References:
 - Official repo at https://github.com/tjukanovt/30DayMapChallenge
